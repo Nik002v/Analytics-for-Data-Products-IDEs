@@ -36,9 +36,9 @@ The analysis includes:
 
 ## Repository Contents
 
-- `analysis.ipynb` – Jupyter Notebook with the full analysis (preprocessing, session reconstruction, visualization, statistics)
-- `dataset.csv` – Original dataset used in the analysis
-- `report.pdf` – Detailed report with methodology, results, and conclusions
+- `JB_PROJECT_IDE_.ipynb` – Jupyter Notebook with the full analysis (preprocessing, session reconstruction, visualization, statistics)
+- `toolwindow_data - toolwindow_data.csv` – Original dataset used in the analysis
+- `Report_JB_internship_NikolaZlatanovic_2024_3033.docx` – Detailed report with methodology, results, and conclusions
 
 ---
 
@@ -49,7 +49,7 @@ The notebook was created in **Google Colab**, so you can run it directly in your
 ### Steps:
 
 1. Open the notebook in Google Colab:
-   - Click on `analysis.ipynb` in this repository
+   - Click on `JB_PROJECT_IDE_.ipynb` in this repository
    - Click **Open in Colab** (if prompted)
   
 2. **Run the notebook cells:**
@@ -58,7 +58,7 @@ The notebook was created in **Google Colab**, so you can run it directly in your
        
 3. **Upload the dataset:**
    - In the notebook, there is a section labeled **"Upload Dataset"**
-   - Click **Choose Files** and select `dataset.csv` from your computer
+   - Click **Choose Files** and select `toolwindow_data - toolwindow_data.csv` from your computer
    - Wait for the file to finish uploading  
 
 4. **View results:**
