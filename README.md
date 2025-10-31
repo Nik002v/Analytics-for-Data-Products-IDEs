@@ -38,7 +38,7 @@ The analysis includes:
 
 - `JB_PROJECT_IDE_.ipynb` – Jupyter Notebook with the full analysis (preprocessing, session reconstruction, visualization, statistics)
 - `toolwindow_data - toolwindow_data.csv` – Original dataset used in the analysis
-- `Report_JB_internship_NikolaZlatanovic_2024_3033.docx` – Detailed report with methodology, results, and conclusions
+- `report.pdf` – Detailed report with methodology, results, and conclusions
 
 ---
 
