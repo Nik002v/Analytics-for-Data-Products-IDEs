@@ -4,6 +4,9 @@
 
 This repository contains the analysis of tool window usage in an IDE. The goal of the analysis is to investigate whether there is a significant difference in how long a tool window stays open depending on whether it was opened manually or automatically.
 
+For full methodology, results and discussion, see the
+[project report](report.pdf).
+
 ### Dataset
 
 The dataset is an event log tracking tool window activity. Each row contains:
